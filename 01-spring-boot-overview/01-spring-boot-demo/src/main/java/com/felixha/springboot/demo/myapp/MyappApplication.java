@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @SpringBootApplication
 public class MyappApplication {
 
+	//test commit
 	public static void main(String[] args) {
 		SpringApplication.run(MyappApplication.class, args);
 	}
